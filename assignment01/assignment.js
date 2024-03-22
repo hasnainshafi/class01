@@ -96,3 +96,8 @@ var guest = ["Ahmed", "Danish", "Saleem"];
 console.log(guest[0] + ' you are invited for dinner at Governor House');
 console.log(guest[1] + ' you are invited for dinner at Governor House');
 console.log(guest[2] + ' you are invited for dinner at Governor House');
+// Question NO 14
+var ghost = ["Ahmed", "Danish", "Saleem"];
+console.log(ghost[0] + ' you are invited for dinner at Governor House');
+console.log(ghost[1] + ' you are invited for dinner at Governor House');
+console.log(ghost[2] + ' you are invited for dinner at Governor House');
